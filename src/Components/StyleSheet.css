@@ -1,0 +1,68 @@
+.wrapper{
+    text-align: center;
+    width:550px;
+    height: 415px;
+    margin: 50px 0px 0px 500px;
+     border: 5px solid black;
+}
+
+.inputBox{
+    width: 520px;
+    margin: 10px;
+    font-size: 30px;
+}
+
+.numButtons{
+    width: 300px;
+    height: 250px;
+    margin: 10px;
+    text-align: center;
+    float: left;
+}
+
+.opratorButtons{
+    width: 200px;
+    height: 250px;
+    margin: 10px;
+    text-align: center;
+    float: right;
+}
+
+.numbers {
+    width: 80px;
+    height: 45px;
+    margin: 5px;
+    font-size: 30px;
+    color: darkgray;
+    background-color: white;
+}
+
+.clearButton{
+    width: 170px;
+    height: 45px;
+    font-size: 30px;
+    color: red;
+    background-color: white;
+}
+
+.equalButton{
+    width: 170px;
+    height: 45px;
+    margin: 2px;
+    font-size: 30px;
+    color: green;
+    background-color: white;
+}
+
+.numbers:hover{
+    color: white;
+    background-color: darkgray;
+}
+.clearButton:hover{
+    color: white;
+    background-color: lightcoral;
+}
+.equalButton:hover{
+    color: white;
+    background-color: lightgreen;
+}
